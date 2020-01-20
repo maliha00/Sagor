@@ -1,0 +1,41 @@
+#header{
+	background-color:white;
+	padding:15px;
+	border-bottom:4px solid black;
+}
+#header img{
+	width:80px;
+}
+#header h2{
+	color:#fe0a4f;
+	float:right;
+}
+body{
+	background-color:#20ff25;
+}
+#wrapper{
+	width:960px;
+	margin:20px auto;
+}
+label{
+	color:#060100;
+}
+input[type="text"]{
+	width:132px;
+	height:20px;
+	border:2px solid red;
+	border-radius:4px;
+	font-weight:bold;
+}
+input[type="submit"]{
+	width:100px;
+	height:46px;
+	border-radius:4px;
+	color:blue;
+}
+footer h2{
+	background-color:white;
+	color:#fe0a4f;
+	padding:15px;
+	border-top:4px solid black;
+}
